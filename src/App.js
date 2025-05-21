@@ -69,7 +69,7 @@ function App() {
         <section id="home" className="hero-section">
           <div className="hero-content">
             <div className="hero-image">
-              <img src="/image/cat.png" alt="Dang Thanh Loc" />
+              <img src="image/cat.png" alt="Dang Thanh Loc" />
             </div>
             <div className="hero-text">
               <h2>Hi, I'm Dang Thanh Loc</h2>
