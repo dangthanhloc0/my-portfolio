@@ -8,21 +8,21 @@ function Certificates() {
       title: "Salesforce Administrator",
       issuer: "Simplilearn",
       date: "2025",
-      image: "/image/salesforce_Admin_certificate.png",
+      image: "image/salesforce_Admin_certificate.png",
       description: "Professional certification in Salesforce Administration, covering core concepts and best practices."
     },
     {
       title: "Introduction to C#",
       issuer: "Simplilearn",
       date: "2025",
-      image: "/image/CertificateCsharp.png",
+      image: "image/CertificateCsharp.png",
       description: "Comprehensive introduction to C# programming language fundamentals and best practices."
     },
     {
       title: "Getting Started With Docker",
       issuer: "Simplilearn",
       date: "2025",
-      image: "/image/Docker.png",
+      image: "image/Docker.png",
       description: "Essential Docker concepts and containerization techniques for modern application deployment."
     }
   ];

@@ -7,7 +7,7 @@ function Projects() {
       type: "Team Project",
       teamSize: 2,
       role: "Full-Stack Developer",
-      image: "/image/fashion-store.png",
+      image: "image/fashion-store.png",
       description: "Web application for users to register, log in, manage profiles, search and purchase fashion items. Admin features include managing inventory, orders, and revenue.",
       responsibilities: [
         "Designed database schema",
@@ -21,7 +21,7 @@ function Projects() {
       title: "Online Test",
       type: "Single Project",
       role: "Full-Stack Developer",
-      image: "/image/online-test.png",
+      image: "image/online-test.png",
       description: "Created a test-taking platform with registration, test saving, reviewing, and admin control. Admin can create, edit, delete test, detail test, manage users.",
       responsibilities: [
         "Designed database schema",
@@ -35,7 +35,7 @@ function Projects() {
       title: "Cinema",
       type: "Single Project",
       role: "Full-Stack Developer",
-      image: "/image/cinema.png",
+      image: "image/cinema.png",
       description: "Built system for booking movies, reserving seats, ordering snacks. Admin features include managing movies, snacks, and user accounts.",
       responsibilities: [
         "Designed database schema",
@@ -49,7 +49,7 @@ function Projects() {
       type: "Team Project",
       teamSize: 5,
       role: "Backend Developer",
-      image: "/image/tour-booking.png",
+      image: "image/tour-booking.png",
       description: "Developed backend APIs for user registration, login, booking, order handling. Admin can create, edit, delete, and view tour details.",
       responsibilities: [
         "Designed database schema",
